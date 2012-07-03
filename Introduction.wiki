@@ -20,3 +20,8 @@ Features of the game include:
 
 = Installation =
 Its simple! Extract the zip or rar, and run the EXE inside!!!! Its so simple there are *FOUR* exclamation points!
+
+
+
+Move on to 
+[http://code.google.com/p/famicomfighters/wiki/Basics]
