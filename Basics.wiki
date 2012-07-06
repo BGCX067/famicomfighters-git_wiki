@@ -8,7 +8,7 @@ There are a few buttons that this game makes use of, 4 to be exact, excluding th
 ||A||||B||||C||||START||
 
 
-The game follows a traditional fighting game sense. The goal of the game is top deplete your opponents lifebar using your attacks, special or otherwise. At the same time you attempt to defend yourself from losing life as well. If the round time hits zero, the player with the highest life is counted the winner. 
+The game follows a traditional fighting game sense. The goal of the game is to deplete your opponents lifebar using your attacks, special or otherwise. At the same time you attempt to defend yourself from losing life as well. If the round time hits zero, the player with the highest life is counted the winner. 
 
 = Key =
 ||A||||Punch||
@@ -21,7 +21,7 @@ The game follows a traditional fighting game sense. The goal of the game is top 
 ||v||||Crouch||
 
 = Special Actions = 
-  * Forard Dash
+  * Forward Dash
 ||>||>||
 
   * Back Dash
