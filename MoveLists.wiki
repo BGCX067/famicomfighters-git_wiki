@@ -29,7 +29,7 @@
 ||v + C||
 
   * DP(Dragon Punch)
-||v||v + >||>||v + >||
+||>||v||v + >||
 
   * QCF(Quarter Circle Forward)
 ||v||v + >||>||
