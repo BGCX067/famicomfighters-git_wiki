@@ -1,0 +1,76 @@
+#summary Guide to all the characters!
+
+||<wiki:toc max_depth="1" />||
+
+==== Key ====
+||A||||Punch||
+||B||||Kick||
+||C||||Helper||
+||START||||Pause game menu||
+||<||||Backward||
+||>||||Forward||
+||^||||Jump||
+||v||||Crouch||
+
+==== Special Actions ====
+  * Forward Dash
+||>||>||
+
+  * Back Dash
+||<||<||
+
+  * Grabbing
+||> + C|| or ||< + C||
+
+  * Taunting
+||A + B + C||
+
+  * Crouched Helper
+||v + C||
+
+  * DP(Dragon Punch)
+||v||v + >||>||v + >||
+
+  * QCF(Quarter Circle Forward)
+||v||v + >||>||
+
+
+---------
+= Mario = 
+-----
+_The Hero of the Mushroom Kingdom_
+||http://img217.imageshack.us/img217/9228/mar1j.png||
+
+=== Gameplay Overview ===
+Mario is an all around reliable character. He's easy to use but doesn't have any real advanced techniques about it. He has good reaching normals, straight forward specials and his only real weakness is his vulnerability on wakeup.
+
+=== Specials ===
+||http://img72.imageshack.us/img72/1905/mar3.png||
+|| *Fireball*||
+
+||Normal||QCF + B||
+||EX||QCF + B + C|| 
+
+ * Bouncing projectile with long life that can be done in air.
+ * EX version sends multiple fireballs.
+
+||http://img51.imageshack.us/img51/4899/mar2o.png||
+|| *Raccoon Tail*||
+
+||Normal||QCB + A||
+||EX||QCB + A + C|| 
+
+ * Spinning attack that covers a distance while hitting multiple times.
+ * EX version hits more times, but stays in place.
+
+||http://img96.imageshack.us/img96/9399/mar4.png||
+|| *Stomp*||
+
+||Normal||DP + A||
+||EX||DP + A + C|| 
+
+||Jugem Cloud||<||<||
+
+ * Leaping attack, lands on opponent's head dealing damage. Good when you need to distance yourself from your opponent in a sticky situation.
+ * Jugem Cloud allows you to retreat or fake out your opponent. Can only be done when ascending with Stomp.
+ * EX version is quicker and more powerful.
