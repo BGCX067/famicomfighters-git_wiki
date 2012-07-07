@@ -1,0 +1,89 @@
+#summary The Official Manual For Famicom Fighters
+#labels Featured,Phase-Deploy,Phase-Support
+
+= Current Readme Status =
+
+||*IN DEVELOPMENT. WORK IN PROGRESS.*||
+
+Things will be pasted here for a more organized readme
+
+||http://img513.imageshack.us/img513/6522/32626741.png||
+||_Current build of the game_||
+
+= Introduction =
+-----------
+*Famicom Fighters* is a 2d fighting game developed for the MUGEN PC game engine by KingPepe and Kabukiguy. The game has no current release date as it is in early development. _Famicom Fighters_ is inspired by the NES/Famicom era of video games, hence the title name. Characters are taken from various NES/Famicom titles ranging in obscurity, publisher, and genre. Represented publishers include the likes of Nintendo, Capcom, Konami, Namco and more.
+
+||<wiki:toc max_depth="2" />||
+
+= Plot =
+-----
+_(Currenting in progress)_
+
+= Gameplay =
+----
+Players choose from a roster that spans the entire NES/Famicom library to fight in one on one, single plane battles. The gameplay derives from other 2d fighters such as Street Fighter, King Of Fighters, and Marvel vs. Capcom. At the beginning of the first round, the players choose between three helpers, each from the same publisher as the chosen fighter, and each functionally different from the others. The player has the many normals, special moves, super moves, and a hyper move available to them. The player must win two of three rounds to advance in a game, as with most fighting games.
+
+=== Game Modes ===
+These modes are currently confirmed:
+ * *Arcade Mode* - Like other games in the genre, Arcade Mode pits the player against a ladder of opponents to defeat.
+ * *Versus Mode* - A classic mode that lets the player create singular battles between the CPU or another human.
+ * *Survival* - A gauntlet mode that puts the player through a never ending amount of opponents. 
+ * *Options* - Change the settings of the game, as well as the controls.
+
+=== Helpers ===
+The helper system in _Famicom Fighters_ is very simple, and can be used in multiple ways to supplement your fighting style. Each playable character has up to three helper characters, that belong to the same publisher as your chosen fighter. During the intro animations for the fighters before the first round starts, you may select one of the helpers to back you up through that match. Helpers are activated through the helper button, and can be used while crouching for a possible different effect. The abilities of helpers range from ranged projectile attacks, combo boosters, launchers, stuns, and more!
+
+=Technical=
+-----
+=== Installation ===
+
+1. Download the latest build [http://code.google.com/p/famicomfighters/downloads/list here]
+ * If you've got the base game already, check for updates
+
+2. Extract the zip or rar, and run the EXE inside!!!! Its so simple there are *FOUR* exclamation points! Don't forget to read all the included manuals and readmes!
+
+=== Controls ===
+||<wiki:video url="http://www.youtube.com/watch?v=-vAid6EqSsA"/>||
+||_Outdated tutorial of the basics_||
+
+There are a few buttons that this game makes use of, 4 to be exact, excluding the directional controls. We'll refer to these as 
+
+||A||||B||||C||||START||
+
+==== Key ====
+||A||||Punch||
+||B||||Kick||
+||C||||Helper||
+||START||||Pause game menu||
+||<||||Backward||
+||>||||Forward||
+||^||||Jump||
+||v||||Crouch||
+
+==== Special Actions ====
+  * Forward Dash
+||>||>||
+
+  * Back Dash
+||<||<||
+
+  * Grabbing
+||> + C|| or ||< + C||
+
+  * Taunting
+||A + B + C||
+
+  * Crouched Helper
+||v + C||
+
+= Glossary =
+-----
+ * *Block* - Hold back to block incoming attacks. Some moves are *unblockable*
+ * *Meter* - The three blue bars on the screen represent your ability to do certain moves in exchange for them.
+ * *Special Move* - A signature attack that has more unique properties than normal attacks.
+ * *Super Move* - A signature attack that requires meter to do, but is even more powerful or unique than your special moves.
+ * *EX Special Move* - A buffed version of your special move that may have different properties to it. Requires half of one bar.
+ * *Hyper Move* - An incredibly powerful move that requires all three of your meter bars.
+ * *Grab Tech* - pressing a certain button at the correct moment will prevent someone from throwing you.
+(TBC)
