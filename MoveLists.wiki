@@ -52,7 +52,7 @@ Mario is an all around reliable character. He's easy to use but doesn't have any
 ||EX||QCF + B + C|| 
 
  * Bouncing projectile with long life that can be done in air.
- * EX version sends multiple fireballs.
+ * EX version sends out a fast-moving fireball that hits 4 times.
 
 ||http://img51.imageshack.us/img51/4899/mar2o.png||
 || *Raccoon Tail*||
@@ -61,7 +61,7 @@ Mario is an all around reliable character. He's easy to use but doesn't have any
 ||EX||QCB + A + C|| 
 
  * Spinning attack that covers a distance while hitting multiple times.
- * EX version hits more times, but stays in place.
+ * EX version hits more times and has some invincibility at the start, but stays in place.
 
 ||http://img96.imageshack.us/img96/9399/mar4.png||
 || *Stomp*||
@@ -73,4 +73,4 @@ Mario is an all around reliable character. He's easy to use but doesn't have any
 
  * Leaping attack, lands on opponent's head dealing damage. Good when you need to distance yourself from your opponent in a sticky situation.
  * Jugem Cloud allows you to retreat or fake out your opponent. Can only be done when ascending with Stomp.
- * EX version is quicker and more powerful.
+ * EX version is quicker and more powerful. It also has some invincibility at the beginning. However, you can't use the Jugem Cloud during this.
