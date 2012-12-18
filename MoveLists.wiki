@@ -34,6 +34,8 @@
   * QCF(Quarter Circle Forward)
 ||v||v + >||>||
 
+  * HCF(Half Circle Forward)
+|<|< + v|v||v + >||>||
 
 ---------
 = Mario = 
