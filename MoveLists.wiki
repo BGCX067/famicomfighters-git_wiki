@@ -35,7 +35,7 @@
 ||v||v + >||>||
 
   * HCF(Half Circle Forward)
-|<|< + v|v|v + >||>||
+||<|< + v|v|v + >|>||
 
 ---------
 = Mario = 
