@@ -107,4 +107,5 @@ Mario is an all around reliable character. He's easy to use but doesn't have any
 || *HYPER: Ultimate POWer*||
 
 ||Command||QCF, HCB + A + B||
+
  * Needs to be close when activated but it can also be used as an anti-air super. It also combos almost any basic attack. On block or whiff, this move is pretty unsafe.
