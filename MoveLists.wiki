@@ -109,3 +109,82 @@ Mario is an all around reliable character. He's easy to use but doesn't have any
 ||Command||QCF, HCB + A + B||
 
  * Needs to be close when activated but it can also be used as an anti-air super. It also combos almost any basic attack. On block or whiff, this move is pretty unsafe.
+
+---------
+= Urban Champion = 
+-----
+_King of the Streets_
+||http://imageshack.us/a/img805/1381/portraitw.png||
+
+=== Gameplay Overview ===
+Urban Champion is a powerhouse that can deal a ton of damage, with or without meter. He's got many ways of getting in to pull off his huge combos and his defense isn't bad, having high stamina and a decent wakeup game. His major disadvantage is he needs to be close to the opponent to do so, and with his horrible mobility and his approach options being rather unsafe, it can be hard.
+
+=== Specials ===
+||http://imageshack.us/a/img823/492/fastdash.png||
+|| *Fast Dash*||
+
+||Normal||QCF + A or B||
+
+ * Allows Urban Champ. to move in fast toward the opponent. This shouldn't replace his dash however because of the recovery. You can preform an attack right after this dash:
+  * A is a high punch that can be comboed afterwards.
+  * B is a low punch that needs to be blocked low. It is somewhat unsafe on block.
+  * C is a downward punch that needs to be blocked high. It does have a bit of start-up.
+  * A+B is an uppercut that requires half a power bar that sends the opponent upwards and causes them to float.
+ * Kick version allows Urban Champ. cover more distance but there's a slightly longer start-up.
+ * When preformed after a combo, the move comes out much quicker.
+
+||http://imageshack.us/a/img23/4083/risingupper.png||
+|| *Rising Uppercut*||
+
+||Normal||DP + A||
+||EX||DP + A + C|| 
+
+ * Jumping uppercut that works really well as an anti-air. Useable as a reversal since Urban Champ. is invincibile before he gets off the ground.
+ * EX version is stronger and the invincibility lasts until he is at the highest point.
+
+||http://imageshack.us/a/img138/9488/counterattack.png||
+|| *Counter Attack*||
+
+||Normal||QCB + B||
+
+||Projectile Evade||>||>||
+
+ * A dodge that ends with a high punch. Urban Champ. is invincible only when he has fully stepped back.
+ * Projectile Evade is a dash that allows Urban Champ. to get past projectiles. The recovery is huge though, so it shouldn't be abused.
+ * EX version is quicker and more powerful. It also has some invincibility at the beginning. However, you can't use the Jugem Cloud during this.
+
+||http://imageshack.us/a/img835/1323/fistsoffury.png||
+|| *Fist of Fury*||
+
+||Normal||DP + B||
+||EX||DP + B + C|| 
+
+ * A fury of punches that makes a great combo ender and does decent chip damage. On whiff, it is really unsafe. Unsafe on whiff and block.
+ * EX version does even more damage.
+
+=== Supers ===
+||http://imageshack.us/a/img33/3891/triplerise.png||
+|| *Tripe Rise*||
+
+ * Triple uppercut and Urban Champ's only reliable super attack. Does quite a bit of damage for super and works really good as an anti-air (although you won't get all the hits out of it).
+
+||Command||QCFx2 + A||
+
+||http://imageshack.us/a/img841/1106/flowerpotthrow.png||
+|| *Flower Pot*||
+
+ * Projectile that arcs, does weak damage and stuns the opponent on hit. Works really good as an anti-air. (Note: Does NOT stun the opponent if used in a juggle)
+
+||Command||QCB, HCF + B||
+
+||http://imageshack.us/a/img29/9459/innocenceh.png||
+|| *Scapegoat*||
+
+ * Reversal move that only activates when Urban Champ. is hit with a basic attack. Leaves Urban Champ. open when guessed incorrectly.
+
+||Command||A + B after Stomp hitting||
+
+||http://imageshack.us/a/img94/6136/sewerbrawl.png||
+|| *HYPER: Sewer Brawl*||
+
+ * Urban Champ. throws a series of punches that need to be blocked correctly. If he successfully hits the opponent with the uppercut at the end, the opponent is sent into a manhole and he continues beating him/her up. 
