@@ -158,7 +158,7 @@ Urban Champion is a powerhouse that can deal a ton of damage, with or without me
 ||Normal||DP + B||
 ||EX||DP + B + C|| 
 
- * A fury of punches that makes a great combo ender and does decent chip damage. On whiff, it is really unsafe. Unsafe on whiff and block.
+ * A fury of punches that makes a great combo ender and does decent chip damage. Unsafe on whiff and block.
  * EX version does even more damage.
 
 === Supers ===
