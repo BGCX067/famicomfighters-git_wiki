@@ -81,25 +81,30 @@ Mario is an all around reliable character. He's easy to use but doesn't have any
 ||http://imageshack.us/a/img826/3279/superfire.png||
 || *Super Fire*||
 
+||Command||QCFx2 + A||
+
  * Super projectile that hits twice and can be used in the air. Very useful for long-range punishes and ending air combos.
 
-||Command||QCFx2 + A||
 
 ||http://imageshack.us/a/img833/4866/wreckingtime.png||
 || *Hammer Wreck*||
 
+||Command||QCBx2 + B||
+
  * Compared to Super Fire, it's much stronger so it works better as a combo ender on the ground or as a ground punish. Due to the use of a weapon it has some rather high priority. Unlike the Super Fire, this move is really easy to punish on block and whiff.
 
-||Command||QCBx2 + B||
+
 
 ||http://imageshack.us/a/img14/9076/multistomp.png||
 || *Multistomp*||
 
+||Command||A + B after Stomp hitting||
+
  * Mario's most powerful super but to activate it, it requires a successful Stomp hit.
 
-||Command||A + B after Stomp hitting||
 
 ||http://imageshack.us/a/img43/554/ultimatepower.png||
 || *HYPER: Ultimate POWer*||
 
+||Command||QCF, HCB + A + B||
  * Needs to be close when activated but it can also be used as an anti-air super. It also combos almost any basic attack. On block or whiff, this move is pretty unsafe.
