@@ -151,7 +151,6 @@ Urban Champion is a powerhouse that can deal a ton of damage, with or without me
 
  * A dodge that ends with a high punch. Urban Champ. is invincible only when he has fully stepped back.
  * Projectile Evade is a dash that allows Urban Champ. to get past projectiles. The recovery is huge though, so it shouldn't be abused.
- * EX version is quicker and more powerful. It also has some invincibility at the beginning. However, you can't use the Jugem Cloud during this.
 
 ||http://imageshack.us/a/img835/1323/fistsoffury.png||
 || *Fist of Fury*||
