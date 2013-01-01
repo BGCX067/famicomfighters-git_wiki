@@ -172,7 +172,7 @@ Urban Champion is a powerhouse that can deal a ton of damage, with or without me
 ||http://imageshack.us/a/img841/1106/flowerpotthrow.png||
 || *Flower Pot Throw*||
 
- * Projectile that arcs, does weak damage and stuns the opponent on hit. Works really good as an anti-air. (Note: Does NOT stun the opponent if used in a juggle)
+ * Projectile that arcs, does weak damage and stuns the opponent on hit. Works well as an anti-air. (Note: Does NOT stun the opponent if used in a juggle)
 
 ||Command||QCB, HCF + B||
 
