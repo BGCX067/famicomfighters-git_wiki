@@ -121,7 +121,7 @@ Urban Champion is a powerhouse that can deal a ton of damage, with or without me
 
 === Specials ===
 ||http://imageshack.us/a/img823/492/fastdash.png||
-|| *Fast Dash*||
+|| *Quick Dash*||
 
 ||Normal||QCF + A or B||
 
@@ -153,7 +153,7 @@ Urban Champion is a powerhouse that can deal a ton of damage, with or without me
  * Projectile Evade is a dash that allows Urban Champ. to get past projectiles. The recovery is huge though, so it shouldn't be abused.
 
 ||http://imageshack.us/a/img835/1323/fistsoffury.png||
-|| *Fist of Fury*||
+|| *Fistful Fury*||
 
 ||Normal||DP + B||
 ||EX||DP + B + C|| 
@@ -170,7 +170,7 @@ Urban Champion is a powerhouse that can deal a ton of damage, with or without me
 ||Command||QCFx2 + A||
 
 ||http://imageshack.us/a/img841/1106/flowerpotthrow.png||
-|| *Flower Pot*||
+|| *Flower Pot Throw*||
 
  * Projectile that arcs, does weak damage and stuns the opponent on hit. Works really good as an anti-air. (Note: Does NOT stun the opponent if used in a juggle)
 
@@ -181,7 +181,7 @@ Urban Champion is a powerhouse that can deal a ton of damage, with or without me
 
  * Reversal move that only activates when Urban Champ. is hit with a basic attack. Leaves Urban Champ. open when guessed incorrectly.
 
-||Command||A + B after Stomp hitting||
+||Command||QCBx2 + A||
 
 ||http://imageshack.us/a/img94/6136/sewerbrawl.png||
 || *HYPER: Sewer Brawl*||
